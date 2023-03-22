@@ -7,6 +7,7 @@ namespace testrepo
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Local change, nothing will go wrong");
             SomeFunction();
         }
 
