@@ -14,6 +14,7 @@ namespace testrepo
         private static void SomeFunction()
         {
             Console.WriteLine("Byez");
+            Console.WriteLine("Changed straight in github");
         }
     }
 }
